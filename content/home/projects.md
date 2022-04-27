@@ -69,10 +69,8 @@ subtitle = ""
 +++
 
 
-### Working papers 
 
-**"_Legislators’ Religiosity and Same-Sex Marriage in Latin America_"**
+* Affective Polarization
 
 The issue  vice versa.
 
-### Work in progress 
