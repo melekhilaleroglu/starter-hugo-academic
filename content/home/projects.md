@@ -1,16 +1,12 @@
----
-# An instance of the Portfolio widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
++++
+# A Projects section created with the Portfolio widget.
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = false  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 65
-
-title: 'Works in Progress'
-subtitle: ''
+title = "Works in Progress"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -73,6 +69,10 @@ subtitle: ''
 +++
 
 
-Markup : * Affective Polarization 2022 
+### Working papers 
 
-and vice versa.
+**"_Legislators’ Religiosity and Same-Sex Marriage in Latin America_"**
+
+The issue  vice versa.
+
+### Work in progress 
