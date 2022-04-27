@@ -5,7 +5,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Works in Progress"
+title = "Working Papers"
 subtitle = ""
 
 [content]
@@ -70,7 +70,15 @@ subtitle = ""
 
 
 
-* Affective Polarization
+* How Affective Polarization Influences Vote Choice in European Democracies, 2022 (presented at MPSA 2022)
 
-The issue  vice versa.
-
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
