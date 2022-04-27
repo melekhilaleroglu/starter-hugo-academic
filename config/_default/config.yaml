@@ -69,3 +69,8 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  
+backend:
+  name: git-gateway
+  repo: melekhilaleroglu/starter-hugo-academic
+  branch: master
