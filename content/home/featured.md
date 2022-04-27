@@ -33,4 +33,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+  
+  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
