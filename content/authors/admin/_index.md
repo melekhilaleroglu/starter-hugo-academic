@@ -48,4 +48,4 @@ highlight_name: true
 
 I am a PhD student in Political Science at University of Pittsburgh studying voting behavior, polarization, and political parties in Europe. I am particularly interested in how polarization affects voting behavior. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
