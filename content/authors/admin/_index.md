@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Melek Hilal Eroglu
+title: Melek Hilal Eroğlu
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,8 +13,6 @@ organizations:
   - name: University of Pittsburgh
     url: https://www.pitt.edu/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
