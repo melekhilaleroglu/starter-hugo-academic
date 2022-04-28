@@ -8,16 +8,16 @@ main:
     url: '#about'
     weight: 10
   - name: Working Papers
-    url: '#posts'
+    url: '#w1'
     weight: 20
   - name: Works in Progress
-    url: '#projects'
+    url: '#w2'
     weight: 30
   - name: Teaching
-    url: '#talks'
+    url: '#teaching'
     weight: 40
   - name: CV
-    url: '#featured'
+    url: '#cv'
     weight: 50
   - name: Contact
     url: '#contact'
