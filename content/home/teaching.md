@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:  
-  - title: Teaching Assistant (TA) in Analysis of Comparative Politics
+  - title: Teaching Assistant in Analysis of Comparative Politics
     company: University of Pittsburgh
     company_url: 'https://www.polisci.pitt.edu/'
     date_start: '2022-01-10'
@@ -34,7 +34,7 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Teaching Assistant (TA) in Visualizing and Understanding Social Data
+  - title: Teaching Assistant in Visualizing and Understanding Social Data
     company: University of Pittsburgh
     company_url: 'https://www.polisci.pitt.edu/'
     date_start: '2022-01-10'
