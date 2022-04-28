@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Teaching
 subtitle:
 
 # Date format for experience
@@ -39,9 +39,19 @@ experience:
     date_start: '2022-01-10'
     date_end: '2022-04-30'
     description: |2-
-        Responsibilities include:
         
         * Teaching R
+        * Grading
+        * Guiding
+
+  - title: Teaching Assistant in Comparative Politics
+    company: University of Pittsburgh
+    company_url: 'https://www.polisci.pitt.edu/'
+    date_start: '2021-08-27'
+    date_end: '2021-12-18'
+    description: |2-
+        
+        * Leading discussion
         * Grading
         * Guiding
 design:
