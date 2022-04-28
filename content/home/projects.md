@@ -71,7 +71,8 @@ subtitle = ""
 
 
 * How Affective Polarization Influences Vote Choice in European Democracies (presented at MPSA 2022)
-* <details><summary>Abstract</summary>
+* <details>
+  <summary>Abstract</summary>
   
 How do the affectively polarized individuals make voting decisions in multiparty systems? Although scholars find support for the presence of affective polarization in European democracies, few studies focus on the voting behavior of affectively polarized individuals. Therefore, the aim of this paper is to study the impact of affective polarization on vote choice. Drawing on the earlier literature arguing that the affectively polarized individuals are more likely to be interested in electoral outcomes, I argue that they are more likely to be strategic voters. In order to prevent their least preferred party to influence the policy-making process, affectively polarized individuals would vote for a powerful party in their ideological bloc which may not be the ideologically closest. Using individual-level data from the Comparative Study of Electoral Systems (CSES Modules 1-5) from 1996 to 2019, my analysis provides empirical support for my main expectations in 21 European countries for 80 elections. The findings have important implications for affective polarization and political representation in Europe.
   
