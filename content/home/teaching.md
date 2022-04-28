@@ -48,7 +48,7 @@ experience:
     date_end: '2021-12-18'
     description: |2-
         
-        * Leading discussion
+        * Leading weekly discussion
         * Grading exams
 
   - title: Teaching Assistant in Methods and Scope of Political Analysis
@@ -58,8 +58,18 @@ experience:
     date_end: '2020-01-01'
     description: |2-
     
-        * Teaching weekly Stata and LaTeX
+        * Teaching Stata and LaTeX
         * Grading weekly problem sets
+
+  - title: Teaching Assistant in Research Methods
+    company: Sabanci University
+    company_url: 'https://www.sabanciuniv.edu/en'
+    date_start: '2018-09-01'
+    date_end: '2019-05-01'
+    description: |2-
+    
+        * Leading weekly discussion
+        * Teaching statistical analysis
 design:
   columns: '2'
 ---
