@@ -60,7 +60,6 @@ experience:
     company_url: 'https://www.sabanciuniv.edu/en'
     date_start: '2018-09-01'
     date_end: '2019-05-01'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
