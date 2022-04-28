@@ -39,7 +39,12 @@ experience:
     company_url: 'https://www.polisci.pitt.edu/'
     date_start: '2022-01-10'
     date_end: '2022-04-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
     
  - title: Teaching Assistant (TA) in Comparative Politics
     company: University of Pittsburgh
