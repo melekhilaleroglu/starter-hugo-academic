@@ -26,7 +26,7 @@ experience:
     company: University of Pittsburgh
     company_url: 'https://www.polisci.pitt.edu/'
     date_start: '2022-01-10'
-    date_end: '2022-4-30'
+    date_end: '2022-04-30'
     description: |2-
         Responsibilities include:
         
@@ -38,7 +38,7 @@ experience:
     company: University of Pittsburgh
     company_url: 'https://www.polisci.pitt.edu/'
     date_start: '2022-01-10'
-    date_end: '2022-4-30'
+    date_end: '2022-04-30'
 
 design:
   columns: '2'
