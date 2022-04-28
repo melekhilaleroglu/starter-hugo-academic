@@ -28,10 +28,8 @@ experience:
     date_start: '2022-01-10'
     date_end: '2022-04-30'
     description: |2-
-        Responsibilities include:
         
-        * Grading
-        * Guiding
+        * Grading assignments
 
   - title: Teaching Assistant in Visualizing and Understanding Social Data
     company: University of Pittsburgh
@@ -41,8 +39,7 @@ experience:
     description: |2-
         
         * Teaching R
-        * Grading
-        * Guiding
+        * Grading weekly problem sets
 
   - title: Teaching Assistant in Comparative Politics
     company: University of Pittsburgh
@@ -52,8 +49,17 @@ experience:
     description: |2-
         
         * Leading discussion
-        * Grading
-        * Guiding
+        * Grading exams
+
+  - title: Teaching Assistant in Methods and Scope of Political Analysis
+    company: Sabanci University
+    company_url: 'https://www.sabanciuniv.edu/en'
+    date_start: '2019-09-01'
+    date_end: '2020-01-01'
+    description: |2-
+    
+        * Teaching weekly Stata and LaTeX
+        * Grading weekly problem sets
 design:
   columns: '2'
 ---
