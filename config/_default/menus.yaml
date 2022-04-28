@@ -13,7 +13,7 @@ main:
   - name: Works in Progress
     url: '#w2'
     weight: 30
-  - name: Teaching
+  - name: Te
     url: '#teach'
     weight: 40
   - name: CV
