@@ -27,12 +27,6 @@ experience:
     company_url: 'https://www.polisci.pitt.edu/'
     date_start: '2022-01-10'
     date_end: '2022-04-30'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
 experience: 
   - title: Teaching Assistant (TA) in Visualizing and Understanding Social Data
