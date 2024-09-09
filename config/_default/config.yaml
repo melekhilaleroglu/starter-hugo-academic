@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Melek Hilal Eroğlu # Website name
-baseURL: 'https://melek.netlify.app' # Website URL
+baseURL: 'https://melekhilal.com' # Website URL
 
 ############################
 ## LANGUAGE
