@@ -65,8 +65,8 @@ experience:
         
         * Teaching R for a group of 25 undergraduate students
         * Grading weekly problem sets
-
-  - title: Teaching Assistant to Jae-Jae Spoon in Analysis of Comparative Politicss: Comparative Parties and Elections (PS1399)
+    
+  - title: Teaching Assistant to Jae-Jae Spoon in Comparative Parties and Elections (PS1399)
     company: University of Pittsburgh
     company_url: 'https://www.polisci.pitt.edu/'
     date_start: '2022-01-10'
