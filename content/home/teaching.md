@@ -28,8 +28,6 @@ experience:
     date_start: '2024-05-10'
     date_end: '2024-07-30'
     description: |2-
-
-        * Summer class for undergraduates
       
   - title: Instructor for the Introduction to Comparative Politics (PS0300)
     company: University of Pittsburgh
@@ -37,9 +35,7 @@ experience:
     date_start: '2023-05-10'
     date_end: '2023-07-30'
     description: |2-
-    
-         * Summer class for undergraduates
-       
+           
   - title: Teaching Assistant to Iza Ding in Introduction to Comparative Politics (PS0300)
     company: University of Pittsburgh
     company_url: 'https://www.polisci.pitt.edu/'
@@ -67,9 +63,8 @@ experience:
     date_end: '2022-04-30'
     description: |2-
         
-        * Teaching R
+        * Teaching R for a group of 25 undergraduate students
         * Grading weekly problem sets
-        * Leading recitation sessions for a group of 25 undergraduate students
 
   - title: Teaching Assistant to Jae-Jae Spoon in Analysis of Comparative Politicss: Comparative Parties and Elections (PS1399)
     company: University of Pittsburgh
