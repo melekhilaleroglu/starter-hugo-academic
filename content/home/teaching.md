@@ -28,14 +28,18 @@ experience:
     date_start: '2024-05-10'
     date_end: '2024-07-30'
     description: |2-
-    
+
+        * Summer class for undergraduates
+      
   - title: Instructor for the Introduction to Comparative Politics (PS0300)
     company: University of Pittsburgh
     company_url: 'https://www.polisci.pitt.edu/'
     date_start: '2023-05-10'
     date_end: '2023-07-30'
     description: |2-
-            
+    
+         * Summer class for undergraduates
+       
   - title: Teaching Assistant to Iza Ding in Introduction to Comparative Politics (PS0300)
     company: University of Pittsburgh
     company_url: 'https://www.polisci.pitt.edu/'
