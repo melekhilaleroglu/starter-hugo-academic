@@ -38,7 +38,7 @@ experience:
     date_end: '2023-07-30'
     description: |2-
 
-        *{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/cp.pdf" "newtab" >}}syllabus{{< /staticref >}}.
+        *Download {{< staticref "uploads/cp.pdf" "newtab" >}}syllabus{{< /staticref >}}.
            
   - title: Teaching Assistant to Iza Ding in Introduction to Comparative Politics (PS0300)
     company: University of Pittsburgh
