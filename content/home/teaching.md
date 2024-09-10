@@ -22,15 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
---- 
   - title: Instructor for the Political Science Research Methods (PS0700)
     company: University of Pittsburgh
     company_url: 'https://www.polisci.pitt.edu/'
     date_start: '2024-05-10'
     date_end: '2024-07-30'
     description: |2-
-
-        * Download {{< staticref "uploads/rm.pdf" "newtab" >}}syllabus{{< /staticref >}}.
    
   - title: Instructor for the Introduction to Comparative Politics (PS0300)
     company: University of Pittsburgh
@@ -39,8 +36,6 @@ experience:
     date_end: '2023-07-30'
     description: |2-
 
-        * Download {{< staticref "uploads/resume.pdf" "newtab" >}}syllabus{{< /staticref >}}.
----           
   - title: Teaching Assistant to Iza Ding in Introduction to Comparative Politics (PS0300)
     company: University of Pittsburgh
     company_url: 'https://www.polisci.pitt.edu/'
