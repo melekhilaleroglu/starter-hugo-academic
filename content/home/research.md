@@ -5,7 +5,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Working Papers"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -70,17 +70,10 @@ subtitle = ""
 
 
 
-How Affective Polarization Influences Vote Choice in European Democracies (presented at MPSA 2022)
-<details>
-    <summary>Abstract</summary>
-  
-How do the affectively polarized individuals make voting decisions in multiparty systems? Although scholars find support for the presence of affective polarization in European democracies, few studies focus on the voting behavior of affectively polarized individuals. Therefore, the aim of this paper is to study the impact of affective polarization on vote choice. Drawing on the earlier literature arguing that the affectively polarized individuals are more likely to be interested in electoral outcomes, I argue that they are more likely to be strategic voters. In order to prevent their least preferred party to influence the policy-making process, affectively polarized individuals would vote for a powerful party in their ideological bloc which may not be the ideologically closest. Using individual-level data from the Comparative Study of Electoral Systems (CSES Modules 1-5) from 1996 to 2019, my analysis provides empirical support for my main expectations in 21 European countries for 80 elections. The findings have important implications for affective polarization and political representation in Europe.
-  
-</details>
 
 # Articles Under Review
 
-"The Breadth and Depth of Negative Partisanship in European Multiparty Systems"
+**Melek H. Eroglu** "The Breadth and Depth of Negative Partisanship in European Multiparty Systems"
 <details>
     <summary>Abstract</summary>
   
@@ -88,6 +81,26 @@ How broad and deep are individuals' aversions to opposing political parties? Alt
   
 </details>
 
+**Melek H. Eroglu**, Steven E. Finkel, Anja Neundorf, Aykut Öztürk, and Ericka Rascón Ramírez "Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-Democratic Effects of Partisan Polarization"
+<details>
+    <summary>Abstract</summary>
+  
+How can the negative effects of partisan polarization on democratic attitudes be mitigated? Can polarized individuals be persuaded to choose democracy over party, i.e., support a candidate from an opposing party who upholds democratic norms when their co-partisan candidate fails to do so? We tested the effect of an online civic education intervention conducted on over 41,000 individuals in 33 countries that was designed to promote the choice for “democracy” by emphasizing the benefits of democratic versus autocratic regimes. The results are striking: exposure to civic education messages significantly dampens the negative effect of partisan polarization on anti-democratic co-partisan candidate choice. Civic education also has a small positive effect on polarization itself, with further exploration showing that this is the result of increased evaluations of parties that uphold democratic norms and practices, resulting in greater differences between democratic and antidemocratic parties.
+  
+</details>
+
 # Selected Working Papers
 
 "Mitigating Multi-Party Dislike: Strategies to Reduce Hostility and Promote Democratic Behavior Towards Out-party: Survey Experiment in Germany"
+
+"Negative Partisanship and Its Threats to Democracy in Multiparty Systems"
+
+"Disliking Undemocratic Parties: A Sign of Democratic Commitment"
+
+"Voter Bias When Facing Defeat by a Least Preferred Party"
+
+"Voting Behavior of Negative Partisans in Multiparty Systems"
+
+"Strategic Polarized Voter: How Affective Polarization Influences Vote Choice in European Democracies"
+
+"Examining the Impact of Party Polarization on Protest Behavior"
