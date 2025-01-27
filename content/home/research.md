@@ -68,25 +68,25 @@ subtitle = ""
  css_class = ""
 +++
 
+# Publications 
 
-
-
-# Articles Under Review
-
-**Melek H. Eroglu** "The Breadth and Depth of Negative Partisanship in European Multiparty Systems"
-<details>
-    <summary>Abstract</summary>
-  
-How broad and deep are individuals' aversions to opposing political parties? Although negative partisanship (NP) has recently become a highly salient topic, existing measures fall short as they fail to account for the intensity of an individual's dislike nor the number of disliked parties. This paper introduces a novel approach to measuring NP which overcomes these limitations. Using data from the Comparative Study of Electoral Systems (CSES) across 31 multiparty systems, I compare the relationship between new and old NP measures on democratic attitudes, support for extremism, and political participation. The findings reveal that the new NP measures go beyond the old measures in explaining adverse consequences of NP on democracies, such as increased dissatisfaction and support for extremist parties, and also show stronger correlations with affective and ideological polarization. This research underscores the urgent need to develop strategies to mitigate NP and its detrimental impacts on democratic systems.
-  
-</details>
-
-**Melek H. Eroglu**, Steven E. Finkel, Anja Neundorf, Aykut Öztürk, and Ericka Rascón Ramírez "Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-Democratic Effects of Partisan Polarization"
+**Melek H. Eroglu**, Steven E. Finkel, Anja Neundorf, Aykut Öztürk, and Ericka Rascón Ramírez "Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-Democratic Effects of Partisan Polarization" 2025.(Accepted at the British Journal of Political Science - BJPS)
 <details>
     <summary>Abstract</summary>
   
 How can the negative effects of partisan polarization on democratic attitudes be mitigated? Can polarized individuals be persuaded to choose democracy over party, i.e., support a candidate from an opposing party who upholds democratic norms when their co-partisan candidate fails to do so? We tested the effect of an online civic education intervention conducted on over 41,000 individuals in 33 countries that was designed to promote the choice for “democracy” by emphasizing the benefits of democratic versus autocratic regimes. The results are striking: exposure to civic education messages significantly dampens the negative effect of partisan polarization on anti-democratic co-partisan candidate choice. Civic education also has a small positive effect on polarization itself, with further exploration showing that this is the result of increased evaluations of parties that uphold democratic norms and practices, resulting in greater differences between democratic and antidemocratic parties.
   
+</details>
+
+
+# Articles Under Review
+
+**Melek H. Eroglu** "It’s All About the (Relative) Hate: Out-Party Hostility and Its Consequences in Multiparty Democracies"
+<details>
+    <summary>Abstract</summary>
+  
+How extensive and intense is out-party hostility in contemporary multiparty democracies, and what are its consequences for democratic attitudes, political engagement, and voting behavior? While previous studies have highlighted increasing trends in such hostility, existing measures of the concept fall short in three key respects: they fail to account for the breadth and intensity of hostility in multiparty systems, they do not offer a singular measure for overall hostility, and they do not account for the relative prevalence of negative versus positive party affect. This paper introduces a new measure, ‘Relative Hostility’ to overcome these limitations. Using data from the Comparative Study of Electoral Systems (CSES) across 48 multiparty democracies, this study compares the effects of ‘Relative Hostility’ with those of existing measures of out-party hostility and Affective Polarization on democratic attitudes, support for extremism, and political participation. The findings demonstrate that ‘Relative Hostility’ more accurately explains the adverse effects on democracies, such as increased dissatisfaction with democracy and support for extremist parties. These findings underscore the urgent need for developing strategies that mitigate out-party hostility to bolster democratic resilience.
+
 </details>
 
 # Selected Working Papers
@@ -102,5 +102,3 @@ How can the negative effects of partisan polarization on democratic attitudes be
 "Voting Behavior of Negative Partisans in Multiparty Systems"
 
 "Strategic Polarized Voter: How Affective Polarization Influences Vote Choice in European Democracies"
-
-"Examining the Impact of Party Polarization on Protest Behavior"
