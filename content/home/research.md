@@ -78,10 +78,7 @@ How can the negative effects of partisan polarization on democratic attitudes be
   
 </details>
 
-
-# Articles Under Review
-
-**Melek H. Eroglu** "It’s All About the (Relative) Hate: Out-Party Hostility and Its Consequences in Multiparty Democracies"
+**Melek H. Eroglu** ["It’s All About the (Relative) Hate: Out-Party Hostility and Its Consequences in Multiparty Democracies"](https://www.sciencedirect.com/science/article/pii/S0261379425000307)
 <details>
     <summary>Abstract</summary>
   
