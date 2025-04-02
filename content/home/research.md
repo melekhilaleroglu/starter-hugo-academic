@@ -70,7 +70,7 @@ subtitle = ""
 
 # Publications 
 
-**Melek H. Eroglu**, Steven E. Finkel, Anja Neundorf, Aykut Öztürk, and Ericka Rascón Ramírez "Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-Democratic Effects of Partisan Polarization" 2025.(Accepted at the British Journal of Political Science - BJPS)
+**Melek H. Eroglu**, Steven E. Finkel, Anja Neundorf, Aykut Öztürk, and Ericka Rascón Ramírez. 2025. "Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-Democratic Effects of Partisan Polarization."(Accepted at the *British Journal of Political Science*)
 <details>
     <summary>Abstract</summary>
   
@@ -78,7 +78,7 @@ How can the negative effects of partisan polarization on democratic attitudes be
   
 </details>
 
-**Melek H. Eroglu** ["Out-Party Hostility and Its Consequences in Multiparty Democracies"](https://www.sciencedirect.com/science/article/pii/S0261379425000307) 2025. Electoral Studies.
+**Melek Hilal Eroglu.** 2025. ["Out-Party Hostility and Its Consequences in Multiparty Democracies."](https://www.sciencedirect.com/science/article/pii/S0261379425000307) *Electoral Studies* 95: 102924.
 <details>
     <summary>Abstract</summary>
   
@@ -88,7 +88,7 @@ How extensive and intense is out-party hostility in contemporary multiparty demo
 
 # Selected Working Papers
 
-"Mitigating Multi-Party Dislike: Strategies to Reduce Hostility and Promote Democratic Behavior Towards Out-party: Survey Experiment in Germany"
+"Turning the Enemy to a Democratic Friend: Mitigating Partisan Hostility Through Alternative Pro-Democracy Message Frames"
 
 "Negative Partisanship and Its Threats to Democracy in Multiparty Systems"
 
