@@ -78,7 +78,7 @@ How can the negative effects of partisan polarization on democratic attitudes be
   
 </details>
 
-**Melek H. Eroglu** ["Out-Party Hostility and Its Consequences in Multiparty Democracies"](https://www.sciencedirect.com/science/article/pii/S0261379425000307)
+**Melek H. Eroglu** ["Out-Party Hostility and Its Consequences in Multiparty Democracies"](https://www.sciencedirect.com/science/article/pii/S0261379425000307) 2025. Electoral Studies.
 <details>
     <summary>Abstract</summary>
   
