@@ -70,7 +70,7 @@ subtitle = ""
 
 # Publications 
 
-**Melek H. Eroglu**, Steven E. Finkel, Anja Neundorf, Aykut Öztürk, and Ericka Rascón Ramírez. 2025. "Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-Democratic Effects of Partisan Polarization."(Accepted at the *British Journal of Political Science*)
+**Melek H. Eroglu**, Steven E. Finkel, Anja Neundorf, Aykut Öztürk, and Ericka Rascón Ramírez. 2025. ["Choosing Democracy Over Party? How Civic Education Can Mitigate the Anti-Democratic Effects of Partisan Polarization."](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/choosing-democracy-over-party-how-civic-education-can-mitigate-the-antidemocratic-effects-of-partisan-polarization/6E80D12664C509E01DE8C67EE2AC00BE) *British Journal of Political Science* 55: e65.
 <details>
     <summary>Abstract</summary>
   
