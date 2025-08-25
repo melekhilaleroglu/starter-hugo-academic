@@ -6,12 +6,12 @@ title: Melek Hilal Eroğlu
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Political Science
+role: Postdoc in Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Pittsburgh
-    url: https://www.pitt.edu/
+  - name: Aarhus University 
+    url: https://ps.au.dk/en/?menu=ahu
 
 
 # Social/Academic Networking
@@ -39,8 +39,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate in Political Science at University of Pittsburgh and an Andrew W. Mellon Predoctoral Fellow for the 2024-2025 academic year. My research examines the intersection between affective polarization, out-party hostility, democratic attitudes, voting behavior, and civic education.
+I am currently a Postdoctoral Researcher in Political Science at Aarhus University, working on the [ADDEM](https://suthan.dk/min-side/) Project. In this project, we design and test pro-democracy advertisements to examine whether they can meaningfully strengthen citizens’ democratic commitments.
 
-Over the last two decades, a dramatic increase in individuals’ hostility toward opposing political parties in many democracies has put these countries on a dangerous trajectory. As hostility intensifies, it is anticipated to contribute to the rise of radicalism and political violence. Thus, in the first branch of my research-my dissertation- I explore 1) how to measure hostility toward multiple out-parties in multi-party democracies, which has been published in the *Electoral Studies*, 2) the implications of such hostility for citizens’ voting behavior and democratic attitudes; and 3) ways to reduce high levels of hostility through a survey experiment in Germany that examines the impact of alternative frames of pro-democracy messages. 
+My broader research focuses on affective polarization, out-party hostility, democratic attitudes, and experimental methods to understand how citizens respond to political and democratic challenges. Before joining Aarhus, I completed my PhD in Political Science at the University of Pittsburgh. My dissertation, *Three Essays on Partisan Hostility and Democratic Political Behavior* explores 1) how to measure hostility toward multiple out-parties in multi-party democracies, which has been published in the *Electoral Studies*, 2) the implications of such hostility for citizens’ voting behavior and democratic attitudes; and 3) ways to reduce high levels of hostility through a survey experiment in Germany that examines the impact of alternative frames of pro-democracy messages. 
 
-The second branch of my research examines the intersection of civic education and polarization. In a co-authored paper in which I was the first author under the ERC-funded project [DEMED](https://www.gla.ac.uk/research/az/democracyresearch/) (Democracy under Threat: How Education can Save it), accepted at the *British Journal of Political Science*, we investigate how online civic education can mitigate the anti-democratic effects of partisan polarization. We collect original data from 33 countries with a total of 41,000 participants. 
+The second branch of my research examines the intersection of civic education and polarization. In a co-authored paper in which I was the first author under the ERC-funded project [DEMED](https://www.gla.ac.uk/research/az/democracyresearch/) (Democracy under Threat: How Education can Save it), published in the *British Journal of Political Science*, we investigate how online civic education can mitigate the anti-democratic effects of partisan polarization. We collect original data from 33 countries with a total of 41,000 participants. 
