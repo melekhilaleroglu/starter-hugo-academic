@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: mee57@pitt.edu
+  email: melekhilal@ps.au.dk
 
 design:
   columns: '2'
